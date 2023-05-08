@@ -30,7 +30,7 @@
 
 ### The code
 
-![push method]()
+![push method](./images/push.png)
 
 ### POPPING
 
@@ -48,7 +48,7 @@
 
 ### The code
 
-![pop method]()
+![pop method](./images/pop.png)
 
 ### SHIFTING
 
@@ -68,7 +68,7 @@
 
 ### The code
 
-![shift method]()
+![shift method](./images/shift.png)
 
 ### UNSHIFTING
 
@@ -89,7 +89,7 @@
 
 ### The code
 
-![unshift method]()
+![unshift method](./images/unshift.png)
 
 ### GET
 
@@ -107,7 +107,7 @@
 
 ### The code
 
-![get method]()
+![get method](./images/get.png)
 
 ### SET
 
@@ -122,7 +122,7 @@
 
 ### The code
 
-![set method]()
+![set method](./images/set.png)
 
 ### INSERT
 
@@ -140,7 +140,7 @@
 
 ### The code
 
-![insert method]()
+![insert method](./images/insert.png)
 
 ### REMOVE
 
@@ -159,4 +159,4 @@
 
 ### The code
 
-![remove method]()
+![remove method](./images/remove.png)
